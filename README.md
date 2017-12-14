@@ -263,8 +263,9 @@ src="http://www.opvakantiehuis.nl/sites/default/files/tips-plaatje_0.png" alt=""
   <!-- Section C -->
   <section id="section-c" class="grid">
     <div class="content-wrap">
-      <h2 class="content-title">We handle all of your digital needs</h2>
-      <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Maxime nam rerum vel earum error fugiat cupiditate, dolore eius! Minus, explicabo.</p>
+      <h2 class="content-title">Over mij</h2>
+      <p> Mijn naam is Ikrame El Kandoussi ik ben zeventien jaar oud en ben momenteel een leerling van klas 6 vwo van het Ds. Pierson College. Ik heb deze website gemaakt omdat ik een opdracht kreeg van mijn docent informatica. Ik hoop dat ik je meer informatie heb gegeven over het onderwerp water. Als je verdere vragen hebt kun je mij een bericht sturen en dan zal ik zo spoedig mogerijk reageren 
+     groetje Ikrame </p>
     </div>
   </section>
 
