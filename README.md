@@ -277,11 +277,23 @@ src="http://www.opvakantiehuis.nl/sites/default/files/tips-plaatje_0.png" alt=""
       <p>5258@pierson.nl</p>
     </div>
     <div class="box">
-      <h2 class="content-title">d</h2>
-      <p></p>
-    </div>
-  </section>
-</main>
+      <h2 class="content-title">Quiz</h2>
+     <p class="question">1. Hoeveel water verbruikt een persoon per jaar?</p>
+<ul class="answers">
+<input type="radio" name="q1" value="a" id="q1a"><label for="q1a">60.000 liter</label><br/>
+<input type="radio" name="q1" value="b" id="q1b"><label for="q1b"> 52.000 liter </label><br/>
+<input type="radio" name="q1" value="c" id="q1c"><label for="q1c">55.000</label><br/>
+<input type="radio" name="q1" value="d" id="q1d"><label for="q1d">80.000 liter </label><br/>
+</ul>
+
+<div id="results">
+Show me the answers!
+</div>
+
+<div id="category1">
+<p><strong>Question 1:</strong> The correct answer is the <strong>52.000</strong>.</p>
+</div>
+
 
 <!-- Footer -->
 <footer id="main-footer" class="grid">
