@@ -286,12 +286,6 @@ src="http://www.opvakantiehuis.nl/sites/default/files/tips-plaatje_0.png" alt=""
 <input type="radio" name="q1" value="d" id="q1d"><label for="q1d">80.000 liter </label><br/>
 </ul>
 
-<!-- Footer -->
-<footer id="main-footer" class="grid">
-  <div>Acme Web Solutions</div>
-  <div>Project By <a href="http://traversymedia.com" target="_blank">Traversy Media</a></div>
-</footer>
 
-</body>
 
 
