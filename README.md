@@ -3,7 +3,7 @@
 <html lang="nl">
 
 <head>
-<title>De titel van je webpagina</title>
+<title>De mens die in harmonie leeft met de natuur, is helder als water</title>
 <meta charset="utf-8">
 <meta name="description" content="beschrijving van je webpagina">
 <meta name="viewport" content="initial-scale=1.0, width=device-width">
@@ -13,23 +13,32 @@
 
 <body>
 
-<header><h1>Mijn eigen website</h1></header>
+<header><h1>De mens die in harmonie leeft met de natuur, is helder als water.</h1></header>
 
 <nav>
 <ul>
 <li><a href="index.html">Home</a></li>
-<li><a href="wiezijnwij.html">Wie zijn wij</a></li>
-<li><a href="hobbys.html">Hobby’s</a></li>
-<li><a href="fotos.html">Foto’s</a></li>
-<li><a href="links.html">Links</a></li>
-<li><a href="contact.html">Contact</a></li>
+<li><a href="wiezijnwij.html">Wat zijn benodigheden</a></li>
+<li><a href="hobbys.html">Waarom</a></li>
+<li><a href="fotos.html">Duurzame school</a></li>
+<li><a href="links.html">Economie</a></li>
+<li><a href="contact.html">Overige tips</a></li>
 </ul>
 </nav>
 
 <article>
 
-<h1>Morbi aliquam mi quis volutpat</h1>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur bibendum orci sit amet odio varius pulvinar. Quisque malesuada iaculis nibh, a vulputate orci rutrum sed. In vitae neque nibh. Maecenas semper dolor nec orci vestibulum cursus. Phasellus vel eros urna, at laoreet lorem.</p>
+<h1>Hallo</h1>
+<p>In dit werkstuk hebben wij een onderzoek beschreven dat wij de afgelopen weken hebben gedaan. Een paar weken geleden zaten wij in de les te luisteren naar wat onze aardrijkskundelerares te vertellen had. De docente vertelde dat wij een werkstuk moesten maken over water. Wij kozen voor het onderwerp: Doorspoelen met regenwater. Waarom wij voor dit onderwerp hebben gekozen, is heel simpel, onze school gebruikt al jaren regenwater en we wilden graag weten hoe dit nou precies zat. Onze hoofdvraag was eigenlijk: Kunnen wij en de toekomst heel de regio Den Bosch voorzien van regenwater voor het doorspoelen van toiletten? En  wat zijn de effecten hiervan? Dit lichten wij  toe aan de hand van een paar deelvragen: ’’Waarom zou je gebruik maken van regenwater voor het doorspoelen van de toilet?’’ In deze deelvraag leggen we uit wat de voordelen en de nadelen zijn van duurzaam naar de wc gaan. 
+De volgende deelvraag is:’’Wat voor effect heeft het gebruik van regenwater voor doorspoelen op de omgeving?’’ bij deze deelvraag bekijken wij de effecten op het gebied van planten, dieren en de vertragingstijd. 
+Als derde deelvraag hebben wij ‘’Wat is ervoor nodig om de regio Den Bosch te voorzien van genoeg regenwater voor het doorspoelen van de toiletten?’’ Hier leggen we stap voor stap hoe wij dit plan kunnen realiseren. 
+Als vierde deelvraag hebben wij ‘’Is het economisch aantrekkelijk om regenwater te gebruiken in plaats van het gewoon drinkwater?’’ Hier bekijken wij of er economische voordelen zijn aan het plan. 
+En tot slot hebben we nog een deelvraag:”zijn er nog meer mogelijkheden voor het gebruik van regenwater in plaats van drinkwater?’’ Hier bespreken wij de verdere mogelijkheden van regenwater. Verder zullen wij een aantal bronnen gebruiken om beter uitleg te kunnen geven. De hoofdstukken zullen beginnen met een korte inleiding en vanuit de inleiding komen er alinea’s die de deelvragen gaan beantwoorden. Wij hebben het ook een paar keer over Gerard, dit is een man die bij ons op school mee heeft gewerkt aan het regenwatersysteem.
+
+
+
+Veel plezier met lezen!
+</p>
 
 <ul>
 <li>Nam diam libero, vulputate non aliquet et, tempus consectetur magna.</li>
@@ -60,107 +69,4 @@
 </body>
 
 </html>
-body { 
-    font-family: "Trebuchet MS", sans-serif;
-    font-size: 1em;
-    padding: 0;
-    margin: 0;
-} 
-
-header { 
-    background-color: navy;
-    box-sizing: border-box;
-    padding: 2em 1em;
-} 
-
-header h1 {
-    color: white;
-    font-family: Georgia, serif;
-    font-size: 2.5em;
-    font-variant: small-caps;
-    text-align: center;
-}
-
-nav { 
-    background-color: maroon;
-    box-sizing: border-box;
-    font-size: .9em;
-} 
-
-nav ul { 
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-}
-
-nav li { 
-    border-top: 1px solid white;
-    padding: .5em;
-}
-
-nav li:hover {
-    background-color: navy;
-}
-
-nav li a {
-    text-decoration: none;
-    color: white;
-}
-
-article { 
-    box-sizing: border-box;
-    padding: 2em;
-    min-height: 70vh;
-}
-
-article img {
-    max-width: 100%;
-}
-
-article ul, #hoofdvak ol {
-    list-style-position: outside;
-    margin-left: 2em;
-}
-
-article h1 {
-    color: maroon;
-}
-
-article h2 {
-    color: navy;
-}
-
-footer { 
-    background-color: navy;
-    box-sizing: border-box;
-    clear: both;
-    color: white;
-    font-size: .8em;
-    padding: 2em;
-    text-align: center;
-}
-
-@media screen and (min-width: 600px) {
-    nav ul, article {
-        max-width: 1000px;
-        margin: 0 auto;
-    }
-    nav {
-        font-size: 1em;
-    }
-    nav ul {
-        display: -webkit-box;
-        display: -ms-flexbox;
-        display: flex;
-     }
-    nav ul li {
-        border-top: none;
-        -webkit-box-flex: 1;
-        -ms-flex-positive: 1;
-        flex-grow: 1;
-    }
-    nav li {
-        text-align: center;
-    }
-}
-
+De structuur van je w
