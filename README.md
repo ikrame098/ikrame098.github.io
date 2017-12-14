@@ -188,8 +188,8 @@ p {
 <header id="showcase" class="grid">
   <div class="bg-image"></div>
   <div class="content-wrap">
-    <h1>Welcome</h1>
-    <p>Ikrame El Kandoussi .</p>
+    <h1>Welkome</h1>
+    <p>Ikrame El Kandoussi</p>
     <a href="#section-b" class="btn">Read More</a>
   </div>
 </header>
@@ -211,7 +211,7 @@ Als vierde deelvraag hebben wij ‘’Is het economisch aantrekkelijk om regenwa
 En tot slot hebben we nog een deelvraag:”zijn er nog meer mogelijkheden voor het gebruik van regenwater in plaats van drinkwater?’’ Hier bespreken wij de verdere mogelijkheden van regenwater. Verder zullen wij een aantal bronnen gebruiken om beter uitleg te kunnen geven. De hoofdstukken zullen beginnen met een korte inleiding en vanuit de inleiding komen er alinea’s die de deelvragen gaan beantwoorden. Wij hebben het ook een paar keer over Gerard, dit is een man die bij ons op school mee heeft gewerkt aan het regenwatersysteem.
 
 
-Veel plezier met lezen!
+<br>Veel plezier met lezen!</br>
 </p>
       </div>
     </div>
