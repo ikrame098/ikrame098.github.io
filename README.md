@@ -56,7 +56,7 @@ p {
 #showcase .bg-image {
   position: absolute;
   background: #333
-    url("https://static.pexels.com/photos/248515/pexels-photo-248515.png");
+    url("https://www.prominent.nl/media/Applications/app-water-treatment-and-disinfection_Header_1.jpg");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
