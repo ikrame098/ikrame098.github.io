@@ -125,7 +125,16 @@ p {
   background: #2690d4;
 }
 #section-d .box {
-  <button>Antwoord</button>
+  <br/>
+<div id="results">            
+Show me the answers!       
+</div>                
+
+<div id="category1">            
+<p>              
+<strong>Question 1:</strong> The correct answer is the <strong>52.000 liter</strong>.</p>        
+</div>  
+
 }
 
 /* Footer */
@@ -288,17 +297,7 @@ src="http://www.opvakantiehuis.nl/sites/default/files/tips-plaatje_0.png" alt=""
 <input type="radio" name="q1" value="c" id="q1c"><label for="q1c">55.000</label><br/>
 <input type="radio" name="q1" value="d" id="q1d"><label for="q1d">80.000 liter </label><br/>
 </ul>
-{<br/>
-<div id="results">            
-Show me the answers!       
-</div>                
 
-<div id="category1">            
-<p>              
-<strong>Question 1:</strong> The correct answer is the <strong>52.000 liter</strong>.</p>        
-</div>  
-
- }
 
 
 <!-- Footer -->
