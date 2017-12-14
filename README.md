@@ -175,7 +175,16 @@ p {
     width: 31%;
   }
 }
+{<br/>
+<div id="results">            
+Show me the answers!       
+</div>                
 
+<div id="category1">            
+<p>              
+<strong>Question 1:</strong> The correct answer is the <strong>52.000 liter</strong>.</p>        
+</div>    
+ }
     
     
   </style> 
@@ -286,15 +295,6 @@ src="http://www.opvakantiehuis.nl/sites/default/files/tips-plaatje_0.png" alt=""
 <input type="radio" name="q1" value="d" id="q1d"><label for="q1d">80.000 liter </label><br/>
 </ul>
 
-<br/>
-<div id="results">            
-Show me the answers!       
-</div>                
-
-<div id="category1">            
-<p>              
-<strong>Question 1:</strong> The correct answer is the <strong>52.000 liter</strong>.</p>        
-</div>    
 
 
 <!-- Footer -->
