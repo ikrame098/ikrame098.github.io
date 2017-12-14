@@ -222,7 +222,7 @@ Veel plezier met lezen!
     <ul>
       <li>
         <div class="card">
-          <img src="https://image.slidesharecdn.com/typo3congres2014-150429082628-conversion-gate02/95/responsive-webdesign-wat-is-het-en-waarom-zou-je-het-gebruiken-5-638.jpg?cb=1430296268" alt="">
+          <img src="http://www.exellent.be/images/infopages/vraagteken.jpg" alt="">
           <div class="card-content">
             <h3 class="card-title">Waarom</h3>
             <p>Duurzaam water zou een must moeten zijn voor elk persoon. Drinkwater is schaars en kostbaar. Meer dan een miljard mensen hebben geen beschikking over schoon drinkwater en dit zal de komende jaren alleen maar toenemen.</p>
@@ -231,7 +231,7 @@ Veel plezier met lezen!
       </li>
       <li>
         <div class="card">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/%27s-Hertogenbosch_-_Ds._Pierson_College.jpg" alt="">
+          <img src="https://pbs.twimg.com/profile_images/646682042374209536/ryGFm6H1.jpg" alt="">
           <div class="card-content">
             <h3 class="card-title">Groene school</h3>
             <p>Wij zijn naar een medewerker van school gegaan genaamd Gerard. Gerard heeft ons uitgelegd hoe het watersysteem van school precies werkte, welke problemen het watersysteem mee brengen en heeft ons uitgelegd gegeven over hoe de school duurzaam probeert te zijn. In deze deelvraag vertellen wij je wat Gerard ons heeft verteld. </p>
@@ -250,7 +250,7 @@ src="http://www.opvakantiehuis.nl/sites/default/files/tips-plaatje_0.png" alt=""
       </li>
       <li>
         <div class="card">
-          <img src="http://sayknowmore.nl/assets/upload/Economische%20groei.jpg" alt="">
+          <img src="http://media.nu.nl/m/m1nx95jansk3_sqr512.jpg/duitse-regering-ziet-opleving-economie.jpg" alt="">
           <div class="card-content">
             <h3 class="card-title">Economie</h3>
             <p>Het is gratis, zowel geliefd als gehaat en valt in heel wat grotere hoeveelheden uit de hemel dan manna: regenwater. Is regenwater wel goed voor je portemonnee? </p>
