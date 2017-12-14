@@ -1,8 +1,29 @@
 <!DOCTYPE html>
 
 <html lang="nl">
+  
 
 <head>
+  <style> 
+    body{
+  font: 15px/1.5 Arial, Helvetica,sans-serif;
+  padding:0;
+  margin:0;
+  background-color:#f4f4f4;
+}
+
+/* Global */
+.container{
+  width:80%;
+  margin:auto;
+  overflow:hidden;
+}
+
+ul{
+  margin:0;
+  padding:0;
+}
+  </style> 
 <title>De mens die in harmonie leeft met de natuur, is helder als water</title>
 <meta charset="utf-8">
 <meta name="description" content="beschrijving van je webpagina">
