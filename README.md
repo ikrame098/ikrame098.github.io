@@ -188,8 +188,8 @@ p {
 <header id="showcase" class="grid">
   <div class="bg-image"></div>
   <div class="content-wrap">
-    <h1>Welcome to Acme Web Solutions</h1>
-    <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Adipisci eum error earum soluta voluptatum nisi laboriosam eos saepe asperiores dolorum.</p>
+    <h1>Welcome</h1>
+    <p>De mens die in harmonie leeft met de natuur, is helder als water.</p>
     <a href="#section-b" class="btn">Read More</a>
   </div>
 </header>
@@ -199,10 +199,20 @@ p {
   <!-- Section A -->
   <section id="section-a" class="grid">
     <div class="content-wrap">
-      <h2 class="content-title">Web & Application Development</h2>
+      <h2 class="content-title">h</h2>
       <div class="content-text">
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Saepe sint eligendi possimus? Unde officiis magnam laborum ipsa distinctio odio, vero dolores dicta aliquam aperiam repellendus. Perferendis officiis deserunt velit voluptas nobis sequi
-          animi totam, accusantium, ex eius quia, natus quo?</p>
+        <p>Hallo, 
+
+
+In dit werkstuk hebben wij een onderzoek beschreven dat wij de afgelopen weken hebben gedaan. Een paar weken geleden zaten wij in de les te luisteren naar wat onze aardrijkskundelerares te vertellen had. De docente vertelde dat wij een werkstuk moesten maken over water. Wij kozen voor het onderwerp: Doorspoelen met regenwater. Waarom wij voor dit onderwerp hebben gekozen, is heel simpel, onze school gebruikt al jaren regenwater en we wilden graag weten hoe dit nou precies zat. Onze hoofdvraag was eigenlijk: Kunnen wij en de toekomst heel de regio Den Bosch voorzien van regenwater voor het doorspoelen van toiletten? En  wat zijn de effecten hiervan? Dit lichten wij  toe aan de hand van een paar deelvragen: ’’Waarom zou je gebruik maken van regenwater voor het doorspoelen van de toilet?’’ In deze deelvraag leggen we uit wat de voordelen en de nadelen zijn van duurzaam naar de wc gaan. 
+De volgende deelvraag is:’’Wat voor effect heeft het gebruik van regenwater voor doorspoelen op de omgeving?’’ bij deze deelvraag bekijken wij de effecten op het gebied van planten, dieren en de vertragingstijd. 
+Als derde deelvraag hebben wij ‘’Wat is ervoor nodig om de regio Den Bosch te voorzien van genoeg regenwater voor het doorspoelen van de toiletten?’’ Hier leggen we stap voor stap hoe wij dit plan kunnen realiseren. 
+Als vierde deelvraag hebben wij ‘’Is het economisch aantrekkelijk om regenwater te gebruiken in plaats van het gewoon drinkwater?’’ Hier bekijken wij of er economische voordelen zijn aan het plan. 
+En tot slot hebben we nog een deelvraag:”zijn er nog meer mogelijkheden voor het gebruik van regenwater in plaats van drinkwater?’’ Hier bespreken wij de verdere mogelijkheden van regenwater. Verder zullen wij een aantal bronnen gebruiken om beter uitleg te kunnen geven. De hoofdstukken zullen beginnen met een korte inleiding en vanuit de inleiding komen er alinea’s die de deelvragen gaan beantwoorden. Wij hebben het ook een paar keer over Gerard, dit is een man die bij ons op school mee heeft gewerkt aan het regenwatersysteem.
+
+
+Veel plezier met lezen!
+</p>
       </div>
     </div>
   </section>
