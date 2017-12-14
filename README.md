@@ -222,9 +222,9 @@ Veel plezier met lezen!
     <ul>
       <li>
         <div class="card">
-          <img src="https://static.pexels.com/photos/574077/pexels-photo-574077.jpeg" alt="">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/%27s-Hertogenbosch_-_Ds._Pierson_College.jpg" alt="">
           <div class="card-content">
-            <h3 class="card-title">Web Development</h3>
+            <h3 class="card-title">Groene school</h3>
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum culpa neque quo eum et quasi velit voluptatum cum maiores exercitationem.</p>
           </div>
         </div>
