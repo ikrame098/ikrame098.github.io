@@ -5,7 +5,7 @@
     body {
   margin: 0;
   font-family: Arial, Helvetica, sans-serif;
-  background: #333;
+  background: 	#ADD8E6;
   color: #fff;
   font-size: 1.1em;
   line-height: 1.5;
