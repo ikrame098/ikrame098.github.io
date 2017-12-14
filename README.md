@@ -189,7 +189,7 @@ p {
   <div class="bg-image"></div>
   <div class="content-wrap">
     <h1>Welcome</h1>
-    <p>De mens die in harmonie leeft met de natuur, is helder als water.</p>
+    <p>Ikrame El Kandoussi .</p>
     <a href="#section-b" class="btn">Read More</a>
   </div>
 </header>
@@ -199,10 +199,10 @@ p {
   <!-- Section A -->
   <section id="section-a" class="grid">
     <div class="content-wrap">
-      <h2 class="content-title">h</h2>
+      <h2 class="content-title">De mens die in harmonie leeft met de natuur, is helder als water.
+</h2>
       <div class="content-text">
-        <p>Hallo, 
-
+        <p>
 
 In dit werkstuk hebben wij een onderzoek beschreven dat wij de afgelopen weken hebben gedaan. Een paar weken geleden zaten wij in de les te luisteren naar wat onze aardrijkskundelerares te vertellen had. De docente vertelde dat wij een werkstuk moesten maken over water. Wij kozen voor het onderwerp: Doorspoelen met regenwater. Waarom wij voor dit onderwerp hebben gekozen, is heel simpel, onze school gebruikt al jaren regenwater en we wilden graag weten hoe dit nou precies zat. Onze hoofdvraag was eigenlijk: Kunnen wij en de toekomst heel de regio Den Bosch voorzien van regenwater voor het doorspoelen van toiletten? En  wat zijn de effecten hiervan? Dit lichten wij  toe aan de hand van een paar deelvragen: ’’Waarom zou je gebruik maken van regenwater voor het doorspoelen van de toilet?’’ In deze deelvraag leggen we uit wat de voordelen en de nadelen zijn van duurzaam naar de wc gaan. 
 De volgende deelvraag is:’’Wat voor effect heeft het gebruik van regenwater voor doorspoelen op de omgeving?’’ bij deze deelvraag bekijken wij de effecten op het gebied van planten, dieren en de vertragingstijd. 
