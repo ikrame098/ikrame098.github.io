@@ -124,7 +124,9 @@ p {
 #section-d .box:first-child {
   background: #2690d4;
 }
-
+#section-d .box {
+  <button>Antwoord</button>
+}
 
 /* Footer */
 
@@ -295,7 +297,7 @@ Show me the answers!
 <p>              
 <strong>Question 1:</strong> The correct answer is the <strong>52.000 liter</strong>.</p>        
 </div>  
-<button>Antwoord</button>
+
  }
 
 
