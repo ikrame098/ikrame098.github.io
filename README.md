@@ -286,7 +286,7 @@ src="http://www.opvakantiehuis.nl/sites/default/files/tips-plaatje_0.png" alt=""
 <input type="radio" name="q1" value="d" id="q1d"><label for="q1d">80.000 liter </label><br/>
 </ul>
 
-<div id="results">
+<div id>="results">
 Show me the answers!
 </div>
 
