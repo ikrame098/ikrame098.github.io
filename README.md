@@ -232,18 +232,18 @@ Veel plezier met lezen!
       <li>
         <div class="card">
           <img 
-src="https://static.pexels.com/photos/261628/pexels-photo-261628.jpeg" alt="">
+src="https://www.uitvaartdirekt.nl/wp-content/uploads/2015/11/uitvaart-tips.jpg" alt="">
           <div class="card-content">
-            <h3 class="card-title">Mobile Applications</h3>
+            <h3 class="card-title">Tips</h3>
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum culpa neque quo eum et quasi velit voluptatum cum maiores exercitationem.</p>
           </div>
         </div>
       </li>
       <li>
         <div class="card">
-          <img src="https://static.pexels.com/photos/265087/pexels-photo-265087.jpeg" alt="">
+          <img src="https://www.ap.be/sites/default/files/attachments/onderwijs-en-training/economie_1.jpg" alt="">
           <div class="card-content">
-            <h3 class="card-title">Tech Marketing</h3>
+            <h3 class="card-title">Economie</h3>
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum culpa neque quo eum et quasi velit voluptatum cum maiores exercitationem.</p>
           </div>
         </div>
