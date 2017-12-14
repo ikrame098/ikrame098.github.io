@@ -294,7 +294,8 @@ Show me the answers!
 <div id="category1">            
 <p>              
 <strong>Question 1:</strong> The correct answer is the <strong>52.000 liter</strong>.</p>        
-</div>    
+</div>  
+<button>Antwoord</button>
  }
 
 
