@@ -272,13 +272,13 @@ src="http://www.opvakantiehuis.nl/sites/default/files/tips-plaatje_0.png" alt=""
   <!-- Section D -->
   <section id="section-d" class="grid">
     <div class="box">
-      <h2 class="content-title">Contact Us</h2>
-      <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eum, suscipit. Rerum ducimus a quod, ut et voluptas obcaecati unde fuga.</p>
-      <p>contact@acmewebsolutions.test</p>
+      <h2 class="content-title">Vragen?</h2>
+      <p>Voor vragen kun je mij bereiken op: </p>
+      <p>5258@pierson.nl</p>
     </div>
     <div class="box">
-      <h2 class="content-title">About Our Company</h2>
-      <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Distinctio earum porro deserunt, deleniti, quae facere repudiandae, officiis est exercitationem nobis iusto doloremque! Soluta excepturi in aut suscipit amet temporibus quo?</p>
+      <h2 class="content-title">d</h2>
+      <p></p>
     </div>
   </section>
 </main>
