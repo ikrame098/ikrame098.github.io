@@ -222,9 +222,9 @@ Veel plezier met lezen!
     <ul>
       <li>
         <div class="card">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/%27s-Hertogenbosch_-_Ds._Pierson_College.jpg" alt="">
+          <img src="https://image.slidesharecdn.com/typo3congres2014-150429082628-conversion-gate02/95/responsive-webdesign-wat-is-het-en-waarom-zou-je-het-gebruiken-5-638.jpg?cb=1430296268" alt="">
           <div class="card-content">
-            <h3 class="card-title">Groene school</h3>
+            <h3 class="card-title">Waarom</h3>
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum culpa neque quo eum et quasi velit voluptatum cum maiores exercitationem.</p>
           </div>
         </div>
