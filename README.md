@@ -241,7 +241,7 @@ Veel plezier met lezen!
       <li>
         <div class="card">
           <img 
-src="https://www.uitvaartdirekt.nl/wp-content/uploads/2015/11/uitvaart-tips.jpg" alt="">
+src="http://www.opvakantiehuis.nl/sites/default/files/tips-plaatje_0.png" alt="">
           <div class="card-content">
             <h3 class="card-title">Tips</h3>
             <p>Wij hebben in dit werkstuk voornamelijk over gehad dat doorspoelen met regenwater erg goed is voor het milieu. In dit hoofdstuk vertellen wij je over de verdere mogelijkheden die je kun doen met regenwater. .</p>
@@ -250,7 +250,7 @@ src="https://www.uitvaartdirekt.nl/wp-content/uploads/2015/11/uitvaart-tips.jpg"
       </li>
       <li>
         <div class="card">
-          <img src="https://www.ap.be/sites/default/files/attachments/onderwijs-en-training/economie_1.jpg" alt="">
+          <img src="http://sayknowmore.nl/assets/upload/Economische%20groei.jpg" alt="">
           <div class="card-content">
             <h3 class="card-title">Economie</h3>
             <p>Het is gratis, zowel geliefd als gehaat en valt in heel wat grotere hoeveelheden uit de hemel dan manna: regenwater. Is regenwater wel goed voor je portemonnee? </p>
