@@ -56,7 +56,7 @@ p {
 #showcase .bg-image {
   position: absolute;
   background: #333
-    url("https://www.schippers.nl/INTERSHOP/static/WFS/Schippers-NL-Site/-/Schippers/nl_NL/Concepten/Concept%20detail/Conceptdetail-Total-Water-Care-Header.jpg");
+    url("https://www.prominent.nl/media/Applications/app-water-treatment-and-disinfection_Header_1.jpg");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
