@@ -124,6 +124,16 @@ p {
 #section-d .box:first-child {
   background: #2690d4;
 }
+{<br/>
+<div id="results">            
+Show me the answers!       
+</div>                
+
+<div id="category1">            
+<p>              
+<strong>Question 1:</strong> The correct answer is the <strong>52.000 liter</strong>.</p>        
+</div>    
+ }
 
 /* Footer */
 
@@ -175,16 +185,7 @@ p {
     width: 31%;
   }
 }
-{<br/>
-<div id="results">            
-Show me the answers!       
-</div>                
 
-<div id="category1">            
-<p>              
-<strong>Question 1:</strong> The correct answer is the <strong>52.000 liter</strong>.</p>        
-</div>    
- }
     
     
   </style> 
