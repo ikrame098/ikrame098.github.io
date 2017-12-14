@@ -225,7 +225,7 @@ Veel plezier met lezen!
           <img src="https://image.slidesharecdn.com/typo3congres2014-150429082628-conversion-gate02/95/responsive-webdesign-wat-is-het-en-waarom-zou-je-het-gebruiken-5-638.jpg?cb=1430296268" alt="">
           <div class="card-content">
             <h3 class="card-title">Waarom</h3>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum culpa neque quo eum et quasi velit voluptatum cum maiores exercitationem.</p>
+            <p>Duurzaam water zou een must moeten zijn voor elk persoon. Drinkwater is schaars en kostbaar. Meer dan een miljard mensen hebben geen beschikking over schoon drinkwater en dit zal de komende jaren alleen maar toenemen.</p>
           </div>
         </div>
       </li>
@@ -234,7 +234,7 @@ Veel plezier met lezen!
           <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/%27s-Hertogenbosch_-_Ds._Pierson_College.jpg" alt="">
           <div class="card-content">
             <h3 class="card-title">Groene school</h3>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum culpa neque quo eum et quasi velit voluptatum cum maiores exercitationem.</p>
+            <p>Wij zijn naar een medewerker van school gegaan genaamd Gerard. Gerard heeft ons uitgelegd hoe het watersysteem van school precies werkte, welke problemen het watersysteem mee brengen en heeft ons uitgelegd gegeven over hoe de school duurzaam probeert te zijn. In deze deelvraag vertellen wij je wat Gerard ons heeft verteld. </p>
           </div>
         </div>
       </li>
@@ -244,7 +244,7 @@ Veel plezier met lezen!
 src="https://www.uitvaartdirekt.nl/wp-content/uploads/2015/11/uitvaart-tips.jpg" alt="">
           <div class="card-content">
             <h3 class="card-title">Tips</h3>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum culpa neque quo eum et quasi velit voluptatum cum maiores exercitationem.</p>
+            <p>Wij hebben in dit werkstuk voornamelijk over gehad dat doorspoelen met regenwater erg goed is voor het milieu. In dit hoofdstuk vertellen wij je over de verdere mogelijkheden die je kun doen met regenwater. .</p>
           </div>
         </div>
       </li>
@@ -253,7 +253,7 @@ src="https://www.uitvaartdirekt.nl/wp-content/uploads/2015/11/uitvaart-tips.jpg"
           <img src="https://www.ap.be/sites/default/files/attachments/onderwijs-en-training/economie_1.jpg" alt="">
           <div class="card-content">
             <h3 class="card-title">Economie</h3>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum culpa neque quo eum et quasi velit voluptatum cum maiores exercitationem.</p>
+            <p>Het is gratis, zowel geliefd als gehaat en valt in heel wat grotere hoeveelheden uit de hemel dan manna: regenwater. Is regenwater wel goed voor je portemonnee? </p>
           </div>
         </div>
       </li>
