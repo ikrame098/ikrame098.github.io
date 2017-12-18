@@ -18,7 +18,7 @@
       font-size: 18px;
     }
     input[type="submit"] {
-      background: red;
+      background: blue;
       color: white;
     }
   </style>
