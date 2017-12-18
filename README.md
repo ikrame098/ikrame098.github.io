@@ -6,7 +6,7 @@
       background: url("http://mumbaiindia.com/wp-content/uploads/2017/07/636126590517793867-GettyImages-499425462.jpg");
       background-size: cover;
       background-position:  fixed;
-      color: white;
+      color: black;
       font-family: helvetica;
     }
     p {
