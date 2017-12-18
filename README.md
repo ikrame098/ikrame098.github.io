@@ -51,6 +51,13 @@ p {
   min-height: 450px;
   color: #fff;
   text-align: center;
+  <ul>
+      <li><a href="waarom regenwater.html">Waarom</a></li>
+      <li><a href="benodigheden.html">Benodigdheden</a></li>
+      <li><a href="economie.html">Economie</a></li>
+      <li><a href="andere tips.html">Andere tips</a></li>
+      <li><a href="mileuvriederlijke school.html">Milieuvrienderlijke school</a></li>
+    </ul>
 }
 
 #showcase .bg-image {
