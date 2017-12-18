@@ -5,7 +5,7 @@
       text-align: center;
       background: url("http://mumbaiindia.com/wp-content/uploads/2017/07/636126590517793867-GettyImages-499425462.jpg");
       background-size: cover;
-      background-position: center;
+      background-position:  fixed;
       color: white;
       font-family: helvetica;
     }
