@@ -3,7 +3,7 @@
   <style>
     body {
       text-align: center;
-      background: url("http://7-themes.com/data_images/out/24/6848808-water-wallpaper.jpg");
+      background: url("https://wallpapercave.com/wp/Qsm2enc.jpg");
       background-size: cover;
       background-position: center;
       color: white;
